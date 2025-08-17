@@ -1,0 +1,98 @@
+[
+  {
+    "orderId": "ORD-1001",
+    "orderDate": "2025-01-05T08:30:00Z",
+    "productName": "Wireless Earbuds Pro",
+    "category": "Electronics",
+    "quantity": 2,
+    "unitPrice": 129.99,
+    "sales": 259.98,
+    "profit": 51.99,
+    "region": "North America",
+    "country": "United States"
+  },
+  {
+    "orderId": "ORD-1002",
+    "orderDate": "2025-01-10T14:22:00Z",
+    "productName": "Smart Watch X",
+    "category": "Electronics",
+    "quantity": 1,
+    "unitPrice": 249.99,
+    "sales": 249.99,
+    "profit": 62.49,
+    "region": "Europe",
+    "country": "Germany"
+  },
+  {
+    "orderId": "ORD-1003",
+    "orderDate": "2025-01-15T11:15:00Z",
+    "productName": "Bluetooth Speaker",
+    "category": "Electronics",
+    "quantity": 3,
+    "unitPrice": 79.99,
+    "sales": 239.97,
+    "profit": 47.99,
+    "region": "Asia",
+    "country": "Japan"
+  },
+  {
+    "orderId": "ORD-1004",
+    "orderDate": "2025-01-20T16:45:00Z",
+    "productName": "Gaming Mouse",
+    "category": "Electronics",
+    "quantity": 1,
+    "unitPrice": 59.99,
+    "sales": 59.99,
+    "profit": 12.00,
+    "region": "North America",
+    "country": "Canada"
+  },
+  {
+    "orderId": "ORD-1005",
+    "orderDate": "2025-01-25T09:30:00Z",
+    "productName": "Mechanical Keyboard",
+    "category": "Electronics",
+    "quantity": 2,
+    "unitPrice": 129.99,
+    "sales": 259.98,
+    "profit": 51.99,
+    "region": "Europe",
+    "country": "France"
+  },
+  {
+    "orderId": "ORD-1006",
+    "orderDate": "2025-02-05T13:20:00Z",
+    "productName": "Wireless Earbuds Pro",
+    "category": "Electronics",
+    "quantity": 1,
+    "unitPrice": 129.99,
+    "sales": 129.99,
+    "profit": 25.99,
+    "region": "Asia",
+    "country": "South Korea"
+  },
+  {
+    "orderId": "ORD-1007",
+    "orderDate": "2025-02-10T10:15:00Z",
+    "productName": "Smart Watch X",
+    "category": "Electronics",
+    "quantity": 2,
+    "unitPrice": 249.99,
+    "sales": 499.98,
+    "profit": 124.99,
+    "region": "North America",
+    "country": "United States"
+  },
+  {
+    "orderId": "ORD-1008",
+    "orderDate": "2025-02-15T15:30:00Z",
+    "productName": "Bluetooth Speaker",
+    "category": "Electronics",
+    "quantity": 1,
+    "unitPrice": 79.99,
+    "sales": 79.99,
+    "profit": 15.99,
+    "region": "Europe",
+    "country": "United Kingdom"
+  }
+]
